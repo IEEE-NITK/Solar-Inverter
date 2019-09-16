@@ -1,4 +1,4 @@
-Minutes of today’s meet :
+Minutes of todayâ€™s meet : 12 - 09 - 19
 
 
 
@@ -13,7 +13,7 @@ Things which were discussed in today's meet
 
 	* MPPT
 	
-* Working and charging of a Lead Acid Battery
+	* Working and charging of a Lead Acid Battery
 
 
 
