@@ -1,0 +1,20 @@
+Minutes of today’s meet :
+
+
+
+Things which were discussed in today's meet
+
+
+
+1)Started with a basic explanation of the project, GitHub repo and the tasks that have to be completed before the October review
+
+
+2)Planned to learn the following concepts
+
+	* MPPT
+	
+* Working and charging of a Lead Acid Battery
+
+
+
+3)Discussed about selecting the right algorithm and check it's implementation
